@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The NewYork Times</string>
+    <string name="news_images">News Images</string>
+    <string name="no_title">No Title</string>
+    <string name="no_description">No Description</string>
+    <string name="download_failed">Download Failed!</string>
+    <string name="no_internet">No Internet</string>
+    <string name="new_times">NewYork Times</string>
+    <string name="title_activity_web">WebActivity</string>
+</resources>
